@@ -14,7 +14,7 @@ See the [LICENSE file](../master/LICENSE) for details.
 
    ```
    sudo apt-get install nodejs npm  
-   npm install express ffi ref --save  
+   npm install express ffi ref ref-array --save  
    ```
 
    In order to get ffi to install I had to apply the workaround from [this link](https://github.com/fivdi/onoff/wiki/Node.js-v0.10.29-and-native-addons-on-the-Raspberry-Pi).
